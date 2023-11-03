@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aswath&#39;s Portfolio on GoHome</title>
-    <link>https://github.com/Aswath1709/AswathPortfolio/blob/main/</link>
+    <link>https://aswath1709.github.io/AswathPortfolio/</link>
     <description>Recent content in Aswath&#39;s Portfolio on GoHome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/Aswath1709/AswathPortfolio/blob/main/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aswath1709.github.io/AswathPortfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job Classification and Recommendation System</title>
-      <link>https://github.com/Aswath1709/AswathPortfolio/blob/main/post/project-3/</link>
+      <link>https://aswath1709.github.io/AswathPortfolio/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Aswath1709/AswathPortfolio/blob/main/post/project-3/</guid>
+      <guid>https://aswath1709.github.io/AswathPortfolio/post/project-3/</guid>
       <description> Extracted and structured around 100k job descriptions by automating scraping on job boards using bs4 and requests, Tokenized job descriptions applying BERT transformer, decreasing corpus size by 30%, and vectorized into matrix with tf-idf Trained and Evaluated Naive Bayes, Gradient Boosting, Random Forest, Support Vector Machine and Logistic Regression to classify job vectors into job titles and attained 88% accuracy with Random Forest Recommended job titles by calculating cosine similarity between classified jobs and user resumes </description>
     </item>
     <item>
       <title>Analysis and Prediction of Homelessness in the USA</title>
-      <link>https://github.com/Aswath1709/AswathPortfolio/blob/main/post/project-2/</link>
+      <link>https://aswath1709.github.io/AswathPortfolio/post/project-2/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Aswath1709/AswathPortfolio/blob/main/post/project-2/</guid>
+      <guid>https://aswath1709.github.io/AswathPortfolio/post/project-2/</guid>
       <description>Reduced dimensions of a 380-features dataset by 96% through Exploratory Data Analysis (data cleaning, data visualization, feature selection). Built predictive models for homelessness rate with multivariate linear regression and random forest (RMSE 0.35 and 0.18). Github</description>
     </item>
     <item>
       <title>University Recommender</title>
-      <link>https://github.com/Aswath1709/AswathPortfolio/blob/main/post/project-1/</link>
+      <link>https://aswath1709.github.io/AswathPortfolio/post/project-1/</link>
       <pubDate>Sun, 01 May 2022 10:58:08 -0400</pubDate>
-      <guid>https://github.com/Aswath1709/AswathPortfolio/blob/main/post/project-1/</guid>
+      <guid>https://aswath1709.github.io/AswathPortfolio/post/project-1/</guid>
       <description>Scraped graduate profiles from Edulix using BeautifulSoup and predprocessed data. Implemented Wilcoxon Rank-Sum p-Test, Generative Additive Models, Kernel Density Estimation to study correlations between &amp;ldquo;desicion&amp;rdquo; variable and other variables(continuous) Trained and evaluated SVM, logistic Regression, XGBoost, RandomForest and AdaBoost. Attained the highest AUC-ROC(0.83) and AUC-PR(0.87) with Adaboost and chose it as our final model for admission prediction. Implemented KNN to recommend top &amp;lsquo;k&amp;rsquo; universities that best suits with the profile.</description>
     </item>
     <item>
       <title>About Me!</title>
-      <link>https://github.com/Aswath1709/AswathPortfolio/blob/main/about/</link>
+      <link>https://aswath1709.github.io/AswathPortfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Aswath1709/AswathPortfolio/blob/main/about/</guid>
+      <guid>https://aswath1709.github.io/AswathPortfolio/about/</guid>
       <description>🚀 Aspiring Data Scientist &amp;amp; Astrophysics Enthusiast
 📊 Data Science Explorer | ✨ Cosmology Aficionado
 Greetings, Earthlings! 👽
@@ -41,9 +41,9 @@ I&amp;rsquo;m on a cosmic journey through the world of data, with a gravitationa
     </item>
     <item>
       <title>FindMeHere</title>
-      <link>https://github.com/Aswath1709/AswathPortfolio/blob/main/contact/</link>
+      <link>https://aswath1709.github.io/AswathPortfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Aswath1709/AswathPortfolio/blob/main/contact/</guid>
+      <guid>https://aswath1709.github.io/AswathPortfolio/contact/</guid>
       <description> I am here too My address GitHub: https://github.com/Aswath1709 LinkedIn: www.linkedin.com/in/aswathsundar1709 Work Email: sundaramramasubram.a@northeastern.edu Personal Email: aswathsundar1@gmail.com Mobile: (857)-376-1932 OnlyFans: www.youneedgodforreal.com </description>
     </item>
   </channel>
