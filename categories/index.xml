@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GoHome</title>
-    <link>https://ananke.pages.dev/categories/</link>
+    <link>https://aswath1709.github.io/AswathPortfolio/categories/</link>
     <description>Recent content in Categories on GoHome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://ananke.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aswath1709.github.io/AswathPortfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
