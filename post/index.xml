@@ -9,6 +9,18 @@
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://aswath1709.github.io/AswathPortfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Customer Insights and Predictive Analytics</title>
+      <link>https://aswath1709.github.io/AswathPortfolio/post/project-4/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aswath1709.github.io/AswathPortfolio/post/project-4/</guid>
+      <description>Conducted A/B testing to analyze the purchasing behavior of Frequent Shoppers versus Occasional Shoppers, identifying a significant difference in total purchase amounts.
+Implemented a collaborative filtering recommendation system using k-nearest neighbors, providing personalized product recommendations for customers based on their purchase history.
+Developed a machine learning model to predict customer churn, utilizing recency, frequency, and monetary value features, achieving an accuracy of [insert accuracy percentage here]% on the test set.
+Utilized time series forecasting with ARIMA to predict future total purchases, demonstrating the model’s effectiveness in capturing trends and making accurate predictions.
+Applied k-means clustering to segment customers based on recency, frequency, and monetary values, enabling targeted marketing strategies for different customer groups.
+</description>
+    </item>
+    <item>
       <title>Job Classification and Recommendation System</title>
       <link>https://aswath1709.github.io/AswathPortfolio/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
