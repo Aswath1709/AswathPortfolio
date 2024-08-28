@@ -14,10 +14,7 @@
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://aswath1709.github.io/AswathPortfolio/post/project-4/</guid>
       <description>Conducted A/B testing to analyze the purchasing behavior of Frequent Shoppers versus Occasional Shoppers, identifying a significant difference in total purchase amounts.
-Implemented a collaborative filtering recommendation system using k-nearest neighbors, providing personalized product recommendations for customers based on their purchase history.
-Developed a machine learning model to predict customer churn, utilizing recency, frequency, and monetary value features, achieving an accuracy of [insert accuracy percentage here]% on the test set.
-Utilized time series forecasting with ARIMA to predict future total purchases, demonstrating the model’s effectiveness in capturing trends and making accurate predictions.
-Applied k-means clustering to segment customers based on recency, frequency, and monetary values, enabling targeted marketing strategies for different customer groups.
+
 </description>
     </item>
     <item>
@@ -25,14 +22,14 @@ Applied k-means clustering to segment customers based on recency, frequency, and
       <link>https://aswath1709.github.io/AswathPortfolio/post/project-3/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://aswath1709.github.io/AswathPortfolio/post/project-3/</guid>
-      <description> Extracted and structured around 100k job descriptions by automating scraping on job boards using bs4 and requests, Tokenized job descriptions applying BERT transformer, decreasing corpus size by 30%, and vectorized into matrix with tf-idf Trained and Evaluated Naive Bayes, Gradient Boosting, Random Forest, Support Vector Machine and Logistic Regression to classify job vectors into job titles and attained 88% accuracy with Random Forest Recommended job titles by calculating cosine similarity between classified jobs and user resumes </description>
+      <description> </description>
     </item>
     <item>
       <title>Analysis and Prediction of Homelessness in the USA</title>
       <link>https://aswath1709.github.io/AswathPortfolio/post/project-2/</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://aswath1709.github.io/AswathPortfolio/post/project-2/</guid>
-      <description>Reduced dimensions of a 380-features dataset by 96% through Exploratory Data Analysis (data cleaning, data visualization, feature selection). Built predictive models for homelessness rate with multivariate linear regression and random forest (RMSE 0.35 and 0.18). Github</description>
+      <description></description>
     </item>
     <item>
       <title>University Recommender</title>
